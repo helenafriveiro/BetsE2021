@@ -1,0 +1,96 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-10-11 10:57:40 #1 store] 
+Database 'C:\Users\helenafajínriveiro\eclipse-workspace2\BetsE2021\src\main\resources\bets.temp' has been recovered (tr. 781-781)
+
+[2020-10-11 10:57:40 #2 store] 
+Database 'C:\Users\helenafajínriveiro\eclipse-workspace2\BetsE2021\src\main\resources\bets.temp' is opened by 2112@LAPTOP-GG1JFRVO
+
+[2020-10-11 10:57:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-10-11 10:57:40 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-10-11 10:57:40 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-10-11 10:57:40 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-10-11 10:57:40 #7 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-10-11 10:57:40 #8 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-10-11 10:57:40 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2020-10-11 10:57:40 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-10-11 10:58:04 #1 store] 
+Database 'C:\Users\helenafajínriveiro\eclipse-workspace2\BetsE2021\src\main\resources\bets.temp' has been recovered (tr. 782-787)
+
+[2020-10-11 10:58:04 #2 store] 
+Database 'C:\Users\helenafajínriveiro\eclipse-workspace2\BetsE2021\src\main\resources\bets.temp' is opened by 7852@LAPTOP-GG1JFRVO
+
+[2020-10-11 10:58:04 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-10-11 10:58:04 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-10-11 10:58:04 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-10-11 10:58:04 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-10-11 10:58:04 #7 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-10-11 10:58:04 #8 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-10-11 10:58:04 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2020-10-11 10:58:04 #10 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-10-11 11:00:06 #1 store] 
+Database 'C:\Users\helenafajínriveiro\eclipse-workspace2\BetsE2021\src\main\resources\bets.temp' has been recovered (tr. 788-793)
+
+[2020-10-11 11:00:06 #2 store] 
+Database 'C:\Users\helenafajínriveiro\eclipse-workspace2\BetsE2021\src\main\resources\bets.temp' is opened by 17300@LAPTOP-GG1JFRVO
+
+[2020-10-11 11:00:06 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-10-11 11:00:06 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-10-11 11:00:06 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-10-11 11:00:06 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-10-11 11:00:06 #7 type] 
+Type domain.RegularUser is not enhanced.
+
+[2020-10-11 11:00:06 #8 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-10-11 11:00:06 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2020-10-11 11:00:06 #10 type] 
+Type domain.Movement is not enhanced.
+
